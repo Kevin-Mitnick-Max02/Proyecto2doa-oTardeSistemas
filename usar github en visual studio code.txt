@@ -1,0 +1,4 @@
+----Comandos----
+1. Abrir cmd en visual studio code
+2. git config user.name "nameuser"
+3. git config user.email "email"
